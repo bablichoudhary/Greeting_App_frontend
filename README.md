@@ -69,3 +69,6 @@ npm run dev
 Method GET  
 Endpoint /api/greet?name=Babli
 Description Returns greeting for John
+
+**Project Live**
+https://greeting-app-frontend.vercel.app/
